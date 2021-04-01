@@ -4,10 +4,15 @@
 
 ## Vaccinated people per target group (EBU)
 
+The animation shows the percentage of vaccinated people in the age group of over 80 years. First animation has the data for single dose nad the second is for fully vaccinated.
+
+The data is sourced from ECDC. It might be that more countries have started the vaccinations but their data is not available via these sources. Spain data for over 80 years of age who have received vaccinations comes from Ministerio de Sanidad.
+
 **Sources**
 * [ECDC](https://qap.ecdc.europa.eu/public/extensions/COVID-19/vaccine-tracker.html#target-group-tab)
 * [European Commission](https://ec.europa.eu/commission/presscorner/detail/en/ip_21_143)
 * [Ministerio de Sanidad](https://www.mscbs.gob.es/)
+* [Our World In Data](https://ourworldindata.org/covid-vaccinations)
 
 **EBU links**
 * []()
