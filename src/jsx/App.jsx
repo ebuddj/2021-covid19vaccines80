@@ -39,7 +39,7 @@ class App extends Component {
         data:data,
         type:'first_dose',
         show:'name',
-        title:'First Dose'
+        title:'First Dose, people over the age of 80'
       }), this.drawMap);
     })
     .catch(function (error) {
@@ -118,7 +118,7 @@ class App extends Component {
           this.setState((state, props) => ({
             type:'full_vaccination',
             show:'name',
-            title:'Full Vaccination'
+            title:'Full Vaccination, people over the age of 80'
           }), this.changeAreaAttributes);
           timer = setTimeout(() => {
             this.setState((state, props) => ({
