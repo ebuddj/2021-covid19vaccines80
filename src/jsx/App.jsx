@@ -123,8 +123,8 @@ class App extends Component {
               show:'value'
             }), this.changeAreaAttributes);
           }, 3000);
-        }, 3000);
-      }, 6000);
+        }, 6000);
+      }, 3000);
     });
   }
   changeAreaAttributes() {
