@@ -38,7 +38,8 @@ class App extends Component {
       this.setState((state, props) => ({
         data:data,
         type:'first_dose',
-        show:'name'
+        show:'name',
+        title:'First Dose'
       }), this.drawMap);
     })
     .catch(function (error) {
@@ -116,7 +117,8 @@ class App extends Component {
           // Show single dose and value
           this.setState((state, props) => ({
             type:'full_vaccination',
-            show:'name'
+            show:'name',
+            title:'Full Vaccination'
           }), this.changeAreaAttributes);
           timer = setTimeout(() => {
             this.setState((state, props) => ({
@@ -166,6 +168,7 @@ class App extends Component {
   render() {
     return (
       <div className={style.plus}>
+        <h3>{this.state.title}</h3>
         <div className={style.map_container}></div>
       </div>
     );
