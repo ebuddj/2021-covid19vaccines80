@@ -15,7 +15,7 @@ The data is sourced from ECDC. It might be that more countries have started the 
 * [Our World In Data](https://ourworldindata.org/covid-vaccinations)
 
 **EBU links**
-* []()
+* [News Exchange](https://news-exchange.ebu.ch/item_detail/2047dd76a3df1a680bb150c3ac32c505/2021_10006134), 2021-04-01
 
 **Used by**
 * []()
