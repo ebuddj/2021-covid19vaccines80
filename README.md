@@ -13,13 +13,16 @@ The animation shows the percentage of vaccinated people in the age group of over
 
 The data is sourced from ECDC. It might be that more countries have started the vaccinations but their data is not available via these sources. Spain data for over 80 years of age who have received vaccinations comes from Ministerio de Sanidad.
 
+The following countries provide data on their own but are not reporting it to ECDC.
+
 Data for Netherlands can be found from here but is not included in the visualisation: https://www.rivm.nl/covid-19-vaccinatie/cijfers-vaccinatieprogramma
 
 Data for Germany can be found from here but it is not included in the visualisation: https://impfdashboard.de/
 
+Data for Spain can be found from here but it is not included n the visualisation: https://www.mscbs.gob.es/
+
 **Sources**
 * [ECDC](https://qap.ecdc.europa.eu/public/extensions/COVID-19/vaccine-tracker.html#target-group-tab)
-* [Ministerio de Sanidad](https://www.mscbs.gob.es/)
 * [European Commission](https://ec.europa.eu/commission/presscorner/detail/en/ip_21_143)
 
 **EBU links**
