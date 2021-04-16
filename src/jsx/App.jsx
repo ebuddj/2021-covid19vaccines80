@@ -168,7 +168,7 @@ class App extends Component {
   render() {
     return (
       <div className={style.plus}>
-        <h3>{this.state.title}</h3>
+        <h3>{this.state.title} as of 14.4.2021</h3>
         <div className={style.map_container}></div>
       </div>
     );
